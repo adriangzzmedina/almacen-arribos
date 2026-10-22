@@ -1,0 +1,42 @@
+<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo Azul Industrial Sólido -->
+  <rect width="120" height="120" rx="26" fill="#0b223d" />
+
+  <!-- Frente Gráfico en Amarillo Oro: Nave Industrial / Bodega Logística -->
+  <rect x="14" y="94" width="92" height="4" rx="2" fill="#fbbf24" />
+  <path d="M 60 25 L 106 43 L 104 48 L 60 30.5 L 16 48 L 14 43 Z" fill="#fbbf24" />
+  <rect x="52" y="21" width="16" height="3.5" rx="1" fill="#fbbf24" />
+  <rect x="55" y="24.5" width="2" height="3" fill="#fbbf24" />
+  <rect x="63" y="24.5" width="2" height="3" fill="#fbbf24" />
+  <rect x="20" y="47" width="4" height="47" rx="1" fill="#fbbf24" />
+  <rect x="96" y="47" width="4" height="47" rx="1" fill="#fbbf24" />
+  <rect x="28" y="46" width="16" height="5" rx="1.5" fill="#fbbf24" />
+  <rect x="52" y="42" width="16" height="5" rx="1.5" fill="#fbbf24" />
+  <rect x="76" y="46" width="16" height="5" rx="1.5" fill="#fbbf24" />
+  <rect x="20" y="56" width="80" height="4" rx="1" fill="#fbbf24" />
+  <rect x="45" y="56" width="3.5" height="38" fill="#fbbf24" />
+  <rect x="71" y="56" width="3.5" height="38" fill="#fbbf24" />
+  <g stroke="#fbbf24" stroke-width="2.2" stroke-linecap="round">
+    <line x1="27" y1="64" x2="42" y2="64" />
+    <line x1="27" y1="71.5" x2="42" y2="71.5" />
+    <line x1="27" y1="79" x2="42" y2="79" />
+    <line x1="27" y1="86.5" x2="42" y2="86.5" />
+  </g>
+  <line x1="51.5" y1="63" x2="68" y2="63" stroke="#fbbf24" stroke-width="3" stroke-linecap="round" />
+  <rect x="51" y="90" width="17" height="3" rx="0.5" fill="#fbbf24" />
+  <rect x="52" y="78" width="7" height="11" rx="1" fill="#fbbf24" />
+  <rect x="60.5" y="74" width="7.5" height="15" rx="1" fill="#fbbf24" />
+  <rect x="53.5" y="69" width="6" height="8" rx="0.8" fill="#fbbf24" />
+  <g stroke="#fbbf24" stroke-width="2.2" stroke-linecap="round">
+    <line x1="77.5" y1="64" x2="92.5" y2="64" />
+    <line x1="77.5" y1="71.5" x2="92.5" y2="71.5" />
+    <line x1="77.5" y1="79" x2="92.5" y2="79" />
+    <line x1="77.5" y1="86.5" x2="92.5" y2="86.5" />
+  </g>
+  <rect x="23" y="95" width="3" height="4" rx="1" fill="#fbbf24" />
+  <rect x="42.5" y="95" width="3" height="4" rx="1" fill="#fbbf24" />
+  <rect x="48.5" y="95" width="3" height="4" rx="1" fill="#fbbf24" />
+  <rect x="68" y="95" width="3" height="4" rx="1" fill="#fbbf24" />
+  <rect x="74" y="95" width="3" height="4" rx="1" fill="#fbbf24" />
+  <rect x="93" y="95" width="3" height="4" rx="1" fill="#fbbf24" />
+</svg>

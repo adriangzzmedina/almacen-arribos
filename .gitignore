@@ -1,0 +1,25 @@
+# Dependencias
+node_modules/
+client/node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Entorno y credenciales
+.env
+.env.local
+.env.*.local
+
+# Base de datos local (se regenera automáticamente con el esquema inicial)
+almacen.db
+*.sqlite
+*.sqlite3
+*.db-journal
+
+# Temporales de sistema
+.DS_Store
+Thumbs.db
